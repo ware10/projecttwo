@@ -4,7 +4,7 @@ def antique_pinch(grado):
 	elif grado>5 and grado<25:
 		print("aqui pinchamos tos")
 	else:
-		print("hace demasia calo pa ponernos al lio")
+		print("Al toni le da igual, folla de todas formas")
 
 def otrafun(x):
 	return("Esta no va a hacer na")
